@@ -1,1 +1,1 @@
-# powerbi
+# Power BI projects repository.
